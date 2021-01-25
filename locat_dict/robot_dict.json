@@ -1,0 +1,38 @@
+{
+    "good": {
+        "trans": "好的"
+    },
+    "test": {
+        "trans": "测试"
+    },
+    "bad": {
+        "trans": "坏的"
+    },
+    "abandon": {
+        "trans": "废弃的"
+    },
+    "IEEE": {
+        "trans": "IEEE"
+    },
+    "TRANSACTIONS": {
+        "trans": "TRANSACTIONS"
+    },
+    "ROBOTICS": {
+        "trans": "机器人"
+    },
+    "PREPRINT": {
+        "trans": "预印"
+    },
+    "VERSION": {
+        "trans": "版本"
+    },
+    "survey": {
+        "trans": "调查"
+    },
+    "policy": {
+        "trans": "政策"
+    },
+    "search": {
+        "trans": "搜索"
+    }
+}
