@@ -11,11 +11,13 @@
 ## Version
 
 + **v1.0** date: 2021/01/25 简单实现英文文献pdf转换为有道云xml，可以满足基本要求
++ **v1.1** date: 2021/01/27 增加easy_dict_common.json，包含小学和初一词汇，如果单词在该文件中，则会被去除
 
 
 
-## 软件/硬件要求
+## 环境要求
 
++ 系统：windows10
 + 基于python3.8
 + 需要安装requests包
   `pip install requests==2.25.1 -i https://pypi.tuna.tsinghua.edu.cn/simple`
@@ -37,9 +39,17 @@
 
 ## TODO
 
-+ python编程规范  date:2021/01/05
-+ 从有道云url每天只能请求1000次，找找其他方法 date:2021/01/05
-+ UI界面 date:2021/01/05
++ python编程规范  date:2021/01/25
++ 从有道云url每天只能请求1000次，找找其他方法 date:2021/01/25
++ UI界面 date:2021/01/25
++ 去掉更多过于简单的单词，提供更加贴切的领域词汇 date:2021/01/25
++ 把local_dict的单词本分文件储存，一个文件可能太大了 date:2021/01/25
++ 查询单词while循环的超时处理 date:2021/01/25
++ 更新单词本时是否需要考虑'trans'为空的状态？ date:2021/01/25
++ 自动扫描`input`文件夹中所有文件 date:2021/01/26
+
+## DONE
++ 增加easy_dict date:2021/01/25->2021/01/27
 
 
 

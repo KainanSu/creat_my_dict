@@ -30,8 +30,9 @@ class FileToWord(): # 用来处理一切文件，得到word_list
         return word_list
 
 class WordListProcess(): # 用来处理word_list，简化去重等
-    def __init__(self):
-        pass
+    def __init__(self, easy_dict_json):
+        with open(easy_dict_json, 'r', encoding='utf-8') as f:
+            self.easy_dict = json.load(f)
 
     def simply_word_list(self, word_list):
 
@@ -50,11 +51,14 @@ class WordListProcess(): # 用来处理word_list，简化去重等
             if not self._is_word(word_list[i]): 
                 pop_word = word_list.pop(i)
                 delete_list.append(pop_word)
+            elif word_list[i] in self.easy_dict:
+                pop_word = word_list.pop(i)
+                delete_list.append(pop_word)                
 
         return word_list, delete_list
 
     def _is_word(self, word):
-
+        
         MIN_WORD_LEN = 4
         if len(word) < MIN_WORD_LEN: # 长度过短
             return False
@@ -142,16 +146,16 @@ class WordXml():
             f.write('</wordbook>')
 
 
-DEBUG = False
-translate_word_num = 8
-OUTPUT_TRANS = False # 是否输出翻译
+DEBUG = True
+translate_word_num = 1000
+OUTPUT_TRANS = True # 是否输出翻译
 
 if __name__ == '__main__':
     abs_path = os.path.dirname(__file__)  #返回当前文件所在的目录
     FileToWord = FileToWord(abs_path + '\\input\\input.pdf')
     word_list = FileToWord.split()
 
-    WordListProcess = WordListProcess()
+    WordListProcess = WordListProcess(abs_path + '\\locat_dict\\easy_dict_common.json')
     word_list, delete_list = WordListProcess.simply_word_list(word_list)
     
     WordDict = WordDict(abs_path + '\\locat_dict\\robot_dict.json')
