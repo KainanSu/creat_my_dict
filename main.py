@@ -79,9 +79,8 @@ class WordListProcess(): # 用来处理word_list，简化去重等
 class Translator(): # 翻译word
     def __init__(self):
         self.query_cnt = 0
-        pass
 
-    def translate_from_outside(self, word):
+    def translate_from_url(self, word):
         url = "http://fanyi.youdao.com/translate"
         data = {
             'doctype': 'json',
@@ -107,10 +106,12 @@ class Translator(): # 翻译word
         if (local_dict != None) and (word in local_dict):
             trans = local_dict[word]['trans']
         else:
-            while trans == None:
-                trans = self.translate_from_outside(word)
+            MAX_REQUIRE = 5 # 最大请求次数，超过则退出
+            while trans == None and MAX_REQUIRE:
+                trans = self.translate_from_url(word)
                 if trans != None and update_dict == True:
                     local_dict.update({word :{'trans': trans}})
+                MAX_REQUIRE = MAX_REQUIRE - 1
 
         return trans
 
@@ -165,6 +166,9 @@ if __name__ == '__main__':
     for word in word_list:
         if OUTPUT_TRANS == True:
             trans = Translator.translate_a_word(word, local_dict=WordDict.get_dict(), update_dict=True)
+            if trans == None: # 说明今天的url请求次数到达上限
+                print('从url请求trans已超过上限，输出xml并退出')
+                break
         else:
             trans = ''
         word_todo.update({word :{'trans': trans}})

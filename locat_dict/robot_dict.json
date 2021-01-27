@@ -1,13 +1,4 @@
 {
-    "good": {
-        "trans": "好的"
-    },
-    "test": {
-        "trans": "测试"
-    },
-    "bad": {
-        "trans": "坏的"
-    },
     "abandon": {
         "trans": "废弃的"
     },
@@ -1609,5 +1600,119 @@
     },
     "three": {
         "trans": "三个"
+    },
+    "axes": {
+        "trans": "轴"
+    },
+    "noteworthy": {
+        "trans": "值得注意的"
+    },
+    "sections": {
+        "trans": "部分"
+    },
+    "Finally": {
+        "trans": "最后"
+    },
+    "sketches": {
+        "trans": "草图"
+    },
+    "VIII": {
+        "trans": "8"
+    },
+    "proposes": {
+        "trans": "提出了"
+    },
+    "precepts": {
+        "trans": "戒律"
+    },
+    "recommendations": {
+        "trans": "建议"
+    },
+    "guide": {
+        "trans": "指南"
+    },
+    "PROBL": {
+        "trans": "PROBL"
+    },
+    "FORMU": {
+        "trans": "FORMU"
+    },
+    "discrete-time": {
+        "trans": "离散时间"
+    },
+    "systems": {
+        "trans": "系统"
+    },
+    "described": {
+        "trans": "描述"
+    },
+    "probabilities": {
+        "trans": "概率"
+    },
+    "takes": {
+        "trans": "需要"
+    },
+    "input": {
+        "trans": "输入"
+    },
+    "ends": {
+        "trans": "结束"
+    },
+    "deterministic": {
+        "trans": "确定的"
+    },
+    "Gaussian": {
+        "trans": "高斯"
+    },
+    "noise": {
+        "trans": "噪音"
+    },
+    "equation": {
+        "trans": "方程"
+    },
+    "written": {
+        "trans": "写"
+    },
+    "priorsmodelsdynamicspolicyexpected": {
+        "trans": "priorsmodelsdynamicspolicyexpected"
+    },
+    "returnmodel-based": {
+        "trans": "returnmodel-based"
+    },
+    "searchBayesian": {
+        "trans": "searchBayesian"
+    },
+    "optimizationprior": {
+        "trans": "optimizationprior"
+    },
+    "dynamicsprior": {
+        "trans": "dynamicsprior"
+    },
+    "returnsimulations": {
+        "trans": "returnsimulations"
+    },
+    "analytical": {
+        "trans": "分析"
+    },
+    "experimenters": {
+        "trans": "实验者"
+    },
+    "insights": {
+        "trans": "的见解"
+    },
+    "systemprior": {
+        "trans": "systemprior"
+    },
+    "parameterseg": {
+        "trans": "parameterseg"
+    },
+    "demonstrationsprior": {
+        "trans": "demonstrationsprior"
+    },
+    "onstructureeg": {
+        "trans": "onstructureeg"
+    },
+    "dynamicmovement": {
+        "trans": "dynamicmovement"
     }
 }
