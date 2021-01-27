@@ -55,7 +55,9 @@ class WordListProcess(): # 用来处理word_list，简化去重等
                 pop_word = word_list.pop(i)
                 delete_list.append(pop_word)                
 
-        return word_list, delete_list
+        sort_list = self.analyze_frequency(word_list)
+
+        return sort_list, delete_list
 
     def _is_word(self, word):
         
@@ -73,8 +75,13 @@ class WordListProcess(): # 用来处理word_list，简化去重等
     def analyze_frequency(self, word_list):
         import collections
         dic = collections.Counter(word_list) # 统计
-        dic= sorted(dic.items(), key=lambda d:d[1], reverse = True)
-        print(dic)
+        dic = sorted(dic.items(), key=lambda d:d[1], reverse = True)
+        
+        sort_dict = list()
+        for word_set in dic:
+            sort_dict.append(word_set[0])
+
+        return sort_dict
 
 class Translator(): # 翻译word
     def __init__(self):
@@ -147,8 +154,8 @@ class WordXml():
             f.write('</wordbook>')
 
 
-DEBUG = True
-translate_word_num = 1000
+DEBUG = False
+translate_word_num = 10
 OUTPUT_TRANS = True # 是否输出翻译
 
 if __name__ == '__main__':

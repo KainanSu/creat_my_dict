@@ -1714,5 +1714,3143 @@
     },
     "dynamicmovement": {
         "trans": "dynamicmovement"
+    },
+    "International": {
+        "trans": "国际"
+    },
+    "Conference": {
+        "trans": "会议"
+    },
+    "Automation": {
+        "trans": "自动化"
+    },
+    "ICRA": {
+        "trans": "ICRA"
+    },
+    "Karlsruhe": {
+        "trans": "卡尔斯鲁厄"
+    },
+    "Authorized": {
+        "trans": "授权"
+    },
+    "licensed": {
+        "trans": "许可"
+    },
+    "limited": {
+        "trans": "有限的"
+    },
+    "SOUTH": {
+        "trans": "南"
+    },
+    "CHINA": {
+        "trans": "中国"
+    },
+    "UNIVERSITY": {
+        "trans": "大学"
+    },
+    "TECHNOLOGY": {
+        "trans": "技术"
+    },
+    "Downloaded": {
+        "trans": "下载"
+    },
+    "Xplore": {
+        "trans": "伊克斯托"
+    },
+    "Restrictions": {
+        "trans": "限制"
+    },
+    "apply": {
+        "trans": "应用"
+    },
+    "representative": {
+        "trans": "代表"
+    },
+    "area": {
+        "trans": "区域"
+    },
+    "Intelligent": {
+        "trans": "聪明的"
+    },
+    "Trial": {
+        "trans": "试验"
+    },
+    "Error": {
+        "trans": "错误"
+    },
+    "MAP-": {
+        "trans": "地图-"
+    },
+    "Elites": {
+        "trans": "精英"
+    },
+    "evolutionary": {
+        "trans": "进化"
+    },
+    "illumination": {
+        "trans": "照明"
+    },
+    "quality-diversity": {
+        "trans": "quality-diversity"
+    },
+    "repertoire": {
+        "trans": "曲目"
+    },
+    "high-performing": {
+        "trans": "高性能"
+    },
+    "stores": {
+        "trans": "商店"
+    },
+    "low-dimensional": {
+        "trans": "低维"
+    },
+    "When": {
+        "trans": "当"
+    },
+    "searches": {
+        "trans": "搜索"
+    },
+    "stored": {
+        "trans": "存储"
+    },
+    "mean": {
+        "trans": "的意思是"
+    },
+    "allowed": {
+        "trans": "允许"
+    },
+    "several": {
+        "trans": "几个"
+    },
+    "damage": {
+        "trans": "损害"
+    },
+    "conditions": {
+        "trans": "条件"
+    },
+    "missing": {
+        "trans": "失踪"
+    },
+    "shortened": {
+        "trans": "缩短"
+    },
+    "simulator": {
+        "trans": "模拟器"
+    },
+    "generate": {
+        "trans": "生成"
+    },
+    "processes": {
+        "trans": "流程"
+    },
+    "Assuming": {
+        "trans": "假设"
+    },
+    "observations": {
+        "trans": "观察"
+    },
+    "being": {
+        "trans": "被"
+    },
+    "query": {
+        "trans": "查询"
+    },
+    "point": {
+        "trans": "点"
+    },
+    "follows": {
+        "trans": "遵循"
+    },
+    "variance": {
+        "trans": "variance"
+    },
+    "predictions": {
+        "trans": "预测"
+    },
+    "computed": {
+        "trans": "计算"
+    },
+    "kernel": {
+        "trans": "内核"
+    },
+    "vector": {
+        "trans": "向量"
+    },
+    "matrix": {
+        "trans": "矩阵"
+    },
+    "entries": {
+        "trans": "条目"
+    },
+    "kkkT": {
+        "trans": "kkkT"
+    },
+    "above": {
+        "trans": "以上"
+    },
+    "real-world": {
+        "trans": "现实世界的"
+    },
+    "smoothly": {
+        "trans": "顺利"
+    },
+    "areas": {
+        "trans": "区域"
+    },
+    "available": {
+        "trans": "可用"
+    },
+    "prediction": {
+        "trans": "预测"
+    },
+    "corrected": {
+        "trans": "纠正"
+    },
+    "ones": {
+        "trans": "的"
+    },
+    "resort": {
+        "trans": "度假胜地"
+    },
+    "Following": {
+        "trans": "后"
+    },
+    "thought": {
+        "trans": "认为"
+    },
+    "implemented": {
+        "trans": "实现"
+    },
+    "dif-": {
+        "trans": "dif -"
+    },
+    "ferently": {
+        "trans": "不同"
+    },
+    "utilizing": {
+        "trans": "利用"
+    },
+    "Antonova": {
+        "trans": "Antonova"
+    },
+    "bipedal": {
+        "trans": "两足动物"
+    },
+    "Determinants": {
+        "trans": "决定因素"
+    },
+    "Gait": {
+        "trans": "步态"
+    },
+    "produce": {
+        "trans": "生产"
+    },
+    "encodes": {
+        "trans": "编码"
+    },
+    "differences": {
+        "trans": "差异"
+    },
+    "gaits": {
+        "trans": "步态"
+    },
+    "rather": {
+        "trans": "而"
+    },
+    "Euclidean": {
+        "trans": "欧几里得"
+    },
+    "distance": {
+        "trans": "距离"
+    },
+    "parameter": {
+        "trans": "参数"
+    },
+    "score": {
+        "trans": "分数"
+    },
+    "summing": {
+        "trans": "求和"
+    },
+    "approach": {
+        "trans": "方法"
+    },
+    "outperformed": {
+        "trans": "的表现"
+    },
+    "both": {
+        "trans": "这两个"
+    },
+    "traditional": {
+        "trans": "传统的"
+    },
+    "state-of-the-art": {
+        "trans": "最先进的"
+    },
+    "black-box": {
+        "trans": "黑盒"
+    },
+    "optimizers": {
+        "trans": "优化器"
+    },
+    "Covariance": {
+        "trans": "协方差"
+    },
+    "Matrix": {
+        "trans": "矩阵"
+    },
+    "Adaptation": {
+        "trans": "适应"
+    },
+    "Evolution": {
+        "trans": "进化"
+    },
+    "Strategies": {
+        "trans": "策略"
+    },
+    "CMA-": {
+        "trans": "CMA -"
+    },
+    "follow-up": {
+        "trans": "后续"
+    },
+    "hand-specifying": {
+        "trans": "hand-specifying"
+    },
+    "Their": {
+        "trans": "他们的"
+    },
+    "evaluation": {
+        "trans": "评价"
+    },
+    "shows": {
+        "trans": "显示"
+    },
+    "kernels": {
+        "trans": "内核"
+    },
+    "perform": {
+        "trans": "执行"
+    },
+    "almost": {
+        "trans": "几乎"
+    },
+    "hand-tuned": {
+        "trans": "手写的"
+    },
+    "outperform": {
+        "trans": "跑赢大盘"
+    },
+    "Lastly": {
+        "trans": "最后"
+    },
+    "able": {
+        "trans": "能力"
+    },
+    "ATRIAS": {
+        "trans": "心房"
+    },
+    "idea": {
+        "trans": "的想法"
+    },
+    "assumption": {
+        "trans": "假设"
+    },
+    "underlying": {
+        "trans": "潜在的"
+    },
+    "Behavior-Based": {
+        "trans": "行为"
+    },
+    "Kernel": {
+        "trans": "内核"
+    },
+    "utilizes": {
+        "trans": "利用"
+    },
+    "trajectory": {
+        "trans": "轨迹"
+    },
+    "compare": {
+        "trans": "比较"
+    },
+    "done": {
+        "trans": "完成"
+    },
+    "More": {
+        "trans": "更多的"
+    },
+    "behavior": {
+        "trans": "行为"
+    },
+    "associated": {
+        "trans": "相关的"
+    },
+    "density": {
+        "trans": "密度"
+    },
+    "KL-divergences": {
+        "trans": "KL-divergences"
+    },
+    "densities": {
+        "trans": "密度"
+    },
+    "benchmarks": {
+        "trans": "基准"
+    },
+    "average": {
+        "trans": "平均"
+    },
+    "mountain": {
+        "trans": "山"
+    },
+    "acrobot": {
+        "trans": "acrobot"
+    },
+    "cartpole": {
+        "trans": "cartpole"
+    },
+    "swing-up": {
+        "trans": "摆起"
+    },
+    "tasks": {
+        "trans": "任务"
+    },
+    "argue": {
+        "trans": "认为"
+    },
+    "creates": {
+        "trans": "创建"
+    },
+    "nevertheless": {
+        "trans": "不过"
+    },
+    "performed": {
+        "trans": "执行"
+    },
+    "well-chosen": {
+        "trans": "精心挑选的"
+    },
+    "spaces": {
+        "trans": "空间"
+    },
+    "Wilson": {
+        "trans": "威尔逊"
+    },
+    "compute": {
+        "trans": "计算"
+    },
+    "approximate": {
+        "trans": "近似"
+    },
+    "procedure": {
+        "trans": "过程"
+    },
+    "They": {
+        "trans": "他们"
+    },
+    "regular": {
+        "trans": "常规的"
+    },
+    "iteration": {
+        "trans": "迭代"
+    },
+    "re-compute": {
+        "trans": "重新计算"
+    },
+    "newly": {
+        "trans": "新"
+    },
+    "issue": {
+        "trans": "问题"
+    },
+    "visible": {
+        "trans": "可见"
+    },
+    "sight": {
+        "trans": "视线"
+    },
+    "scales": {
+        "trans": "尺度"
+    },
+    "badly": {
+        "trans": "严重"
+    },
+    "dimensionality": {
+        "trans": "维数"
+    },
+    "relatively": {
+        "trans": "相对"
+    },
+    "improvements": {
+        "trans": "改进"
+    },
+    "IV-A": {
+        "trans": "四、"
+    },
+    "practical": {
+        "trans": "实用"
+    },
+    "Lober": {
+        "trans": "吊球"
+    },
+    "selects": {
+        "trans": "选择"
+    },
+    "parame-": {
+        "trans": "parame -"
+    },
+    "terizations": {
+        "trans": "terizations"
+    },
+    "QP-based": {
+        "trans": "QP-based"
+    },
+    "whole": {
+        "trans": "整个"
+    },
+    "order": {
+        "trans": "订单"
+    },
+    "formulate": {
+        "trans": "制定"
+    },
+    "includes": {
+        "trans": "包括"
+    },
+    "contains": {
+        "trans": "包含"
+    },
+    "parameterized": {
+        "trans": "参数化"
+    },
+    "way-points": {
+        "trans": "路点"
+    },
+    "switching": {
+        "trans": "切换"
+    },
+    "times": {
+        "trans": "次"
+    },
+    "allow": {
+        "trans": "允许"
+    },
+    "iCub": {
+        "trans": "iCub"
+    },
+    "move": {
+        "trans": "移动"
+    },
+    "object": {
+        "trans": "对象"
+    },
+    "maintaining": {
+        "trans": "维护"
+    },
+    "balance": {
+        "trans": "平衡"
+    },
+    "avoid": {
+        "trans": "避免"
+    },
+    "collisions": {
+        "trans": "collisions"
+    },
+    "Multiple": {
+        "trans": "多个"
+    },
+    "sources": {
+        "trans": "来源"
+    },
+    "Instead": {
+        "trans": "而不是"
+    },
+    "sim-": {
+        "trans": "sim-"
+    },
+    "ulator": {
+        "trans": "建立"
+    },
+    "precompute": {
+        "trans": "预计算"
+    },
+    "Alonso": {
+        "trans": "Alonso"
+    },
+    "ability": {
+        "trans": "能力"
+    },
+    "automatically": {
+        "trans": "自动"
+    },
+    "decide": {
+        "trans": "决定"
+    },
+    "whether": {
+        "trans": "是否"
+    },
+    "gain": {
+        "trans": "获得"
+    },
+    "crucial": {
+        "trans": "至关重要的"
+    },
+    "sample": {
+        "trans": "样本"
+    },
+    "cheaper": {
+        "trans": "更便宜的"
+    },
+    "multiple": {
+        "trans": "多个"
+    },
+    "relies": {
+        "trans": "依赖"
+    },
+    "entropy": {
+        "trans": "熵"
+    },
+    "measure": {
+        "trans": "测量"
+    },
+    "content": {
+        "trans": "内容"
+    },
+    "simulations": {
+        "trans": "simulations"
+    },
+    "Since": {
+        "trans": "自"
+    },
+    "unit": {
+        "trans": "单位"
+    },
+    "utility": {
+        "trans": "实用程序"
+    },
+    "physically": {
+        "trans": "身体上的"
+    },
+    "meaningful": {
+        "trans": "有意义的"
+    },
+    "quantities": {
+        "trans": "量"
+    },
+    "units": {
+        "trans": "单位"
+    },
+    "trade": {
+        "trans": "贸易"
+    },
+    "accuracy": {
+        "trans": "精度"
+    },
+    "result": {
+        "trans": "结果"
+    },
+    "evaluate": {
+        "trans": "评估"
+    },
+    "inaccurate": {
+        "trans": "不准确的"
+    },
+    "applied": {
+        "trans": "应用"
+    },
+    "method": {
+        "trans": "方法"
+    },
+    "called": {
+        "trans": "被称为"
+    },
+    "Entropy": {
+        "trans": "熵"
+    },
+    "MF-ES": {
+        "trans": "MF-ES"
+    },
+    "cart-pole": {
+        "trans": "cart-pole"
+    },
+    "showed": {
+        "trans": "显示"
+    },
+    "speed": {
+        "trans": "速度"
+    },
+    "compared": {
+        "trans": "相比"
+    },
+    "standard": {
+        "trans": "标准"
+    },
+    "Pautrat": {
+        "trans": "Pautrat"
+    },
+    "CHATZILYGEROUDIS": {
+        "trans": "CHATZILYGEROUDIS"
+    },
+    "SURVEY": {
+        "trans": "调查"
+    },
+    "POLICY": {
+        "trans": "政策"
+    },
+    "SEARCH": {
+        "trans": "搜索"
+    },
+    "ALGORITHMS": {
+        "trans": "算法"
+    },
+    "LEARNING": {
+        "trans": "学习"
+    },
+    "ROBOT": {
+        "trans": "机器人"
+    },
+    "CONTROLLERS": {
+        "trans": "控制器"
+    },
+    "HANDFUL": {
+        "trans": "一些"
+    },
+    "TRIALS": {
+        "trans": "试用"
+    },
+    "ACQU": {
+        "trans": "ACQU"
+    },
+    "IONFUNCT": {
+        "trans": "IONFUNCT"
+    },
+    "Likely": {
+        "trans": "可能"
+    },
+    "Expected": {
+        "trans": "预期"
+    },
+    "Improvement": {
+        "trans": "改进"
+    },
+    "MLEI": {
+        "trans": "MLEI"
+    },
+    "tempts": {
+        "trans": "诱惑"
+    },
+    "likelihood": {
+        "trans": "可能性"
+    },
+    "potential": {
+        "trans": "潜在的"
+    },
+    "solutions": {
+        "trans": "解决方案"
+    },
+    "words": {
+        "trans": "单词"
+    },
+    "improvement": {
+        "trans": "改进"
+    },
+    "according": {
+        "trans": "根据"
+    },
+    "unlikely": {
+        "trans": "不太可能"
+    },
+    "ignored": {
+        "trans": "忽略了"
+    },
+    "conversely": {
+        "trans": "相反"
+    },
+    "likely": {
+        "trans": "可能"
+    },
+    "pessimistic": {
+        "trans": "悲观"
+    },
+    "nothing": {
+        "trans": "没有什么"
+    },
+    "enough": {
+        "trans": "足够的"
+    },
+    "lets": {
+        "trans": "让"
+    },
+    "expect": {
+        "trans": "预计"
+    },
+    "maximum": {
+        "trans": "最大"
+    },
+    "objective": {
+        "trans": "客观的"
+    },
+    "acquisition": {
+        "trans": "收购"
+    },
+    "similarly": {
+        "trans": "类似的"
+    },
+    "evaluated": {
+        "trans": "评估"
+    },
+    "scenario": {
+        "trans": "场景"
+    },
+    "simulated": {
+        "trans": "模拟"
+    },
+    "recovery": {
+        "trans": "复苏"
+    },
+    "hexapod": {
+        "trans": "昆虫"
+    },
+    "demonstrates": {
+        "trans": "演示了"
+    },
+    "improved": {
+        "trans": "改进的"
+    },
+    "performance": {
+        "trans": "性能"
+    },
+    "random": {
+        "trans": "随机"
+    },
+    "hand-": {
+        "trans": "手- - - - - -"
+    },
+    "chosen": {
+        "trans": "选择"
+    },
+    "correspond": {
+        "trans": "对应"
+    },
+    "Interestingly": {
+        "trans": "有趣的是"
+    },
+    "circumstances": {
+        "trans": "情况下"
+    },
+    "Safety-Aware": {
+        "trans": "Safety-Aware"
+    },
+    "Approaches": {
+        "trans": "方法"
+    },
+    "Another": {
+        "trans": "另一个"
+    },
+    "interesting": {
+        "trans": "有趣的"
+    },
+    "research": {
+        "trans": "研究"
+    },
+    "variants": {
+        "trans": "变体"
+    },
+    "safety-aware": {
+        "trans": "safety-aware"
+    },
+    "actively": {
+        "trans": "积极"
+    },
+    "tries": {
+        "trans": "试"
+    },
+    "regions": {
+        "trans": "地区"
+    },
+    "cause": {
+        "trans": "导致"
+    },
+    "harm": {
+        "trans": "伤害"
+    },
+    "extension": {
+        "trans": "扩展"
+    },
+    "safely": {
+        "trans": "安全"
+    },
+    "trades-off": {
+        "trans": "个价格"
+    },
+    "exploration": {
+        "trans": "探索"
+    },
+    "exploita-": {
+        "trans": "exploita -"
+    },
+    "tion": {
+        "trans": "优化选择"
+    },
+    "achieve": {
+        "trans": "实现"
+    },
+    "through": {
+        "trans": "通过"
+    },
+    "MAP-Elites": {
+        "trans": "MAP-Elites"
+    },
+    "diverse": {
+        "trans": "多样化的"
+    },
+    "archive": {
+        "trans": "存档"
+    },
+    "estimations": {
+        "trans": "estimations"
+    },
+    "concerning": {
+        "trans": "有关"
+    },
+    "safety": {
+        "trans": "安全"
+    },
+    "criteria": {
+        "trans": "标准"
+    },
+    "constrained": {
+        "trans": "限制"
+    },
+    "guides": {
+        "trans": "指南"
+    },
+    "towards": {
+        "trans": "对"
+    },
+    "compensatory": {
+        "trans": "补偿"
+    },
+    "respect": {
+        "trans": "尊重"
+    },
+    "beliefs": {
+        "trans": "信仰"
+    },
+    "crawl": {
+        "trans": "爬"
+    },
+    "Similarly": {
+        "trans": "类似的"
+    },
+    "Berkenkamp": {
+        "trans": "Berkenkamp"
+    },
+    "SafeOpt": {
+        "trans": "SafeOpt"
+    },
+    "tune": {
+        "trans": "调优"
+    },
+    "trading-off": {
+        "trans": "权衡"
+    },
+    "exploitation": {
+        "trans": "剥削"
+    },
+    "zone": {
+        "trans": "区"
+    },
+    "bootstrap": {
+        "trans": "引导"
+    },
+    "quadrotor": {
+        "trans": "quadrotor"
+    },
+    "vehicle": {
+        "trans": "车辆"
+    },
+    "improve": {
+        "trans": "改善"
+    },
+    "Message": {
+        "trans": "消息"
+    },
+    "uncertainty-based": {
+        "trans": "uncertainty-based"
+    },
+    "exists": {
+        "trans": "存在"
+    },
+    "However": {
+        "trans": "然而"
+    },
+    "Recommended": {
+        "trans": "推荐"
+    },
+    "readings": {
+        "trans": "阅读"
+    },
+    "EARN": {
+        "trans": "赚"
+    },
+    "MODE": {
+        "trans": "模式"
+    },
+    "DYNAM": {
+        "trans": "力学"
+    },
+    "repeatedly": {
+        "trans": "反复"
+    },
+    "querying": {
+        "trans": "查询"
+    },
+    "pected": {
+        "trans": "要"
+    },
+    "leads": {
+        "trans": "领导"
+    },
+    "Main": {
+        "trans": "主要"
+    },
+    "references": {
+        "trans": "参考文献"
+    },
+    "combination": {
+        "trans": "结合"
+    },
+    "differently": {
+        "trans": "不同的"
+    },
+    "observed": {
+        "trans": "观察到的"
+    },
+    "estimation": {
+        "trans": "估计"
+    },
+    "Model-based": {
+        "trans": "基于模型的"
+    },
+    "alternating": {
+        "trans": "交替"
+    },
+    "updating": {
+        "trans": "更新"
+    },
+    "consider": {
+        "trans": "考虑"
+    },
+    "actual": {
+        "trans": "实际"
+    },
+    "conse-": {
+        "trans": "conse -"
+    },
+    "quently": {
+        "trans": "quently"
+    },
+    "approximated": {
+        "trans": "近似"
+    },
+    "maximizing": {
+        "trans": "最大化"
+    },
+    "iterative": {
+        "trans": "迭代"
+    },
+    "scheme": {
+        "trans": "计划"
+    },
+    "seen": {
+        "trans": "见过"
+    },
+    "argmax": {
+        "trans": "argmax"
+    },
+    "Prior": {
+        "trans": "之前"
+    },
+    "dynamicsPrior": {
+        "trans": "dynamicsPrior"
+    },
+    "returnPrior": {
+        "trans": "returnPrior"
+    },
+    "structureNo": {
+        "trans": "structureNo"
+    },
+    "randomly": {
+        "trans": "随机"
+    },
+    "determined": {
+        "trans": "确定"
+    },
+    "initialized": {
+        "trans": "初始化"
+    },
+    "calculating": {
+        "trans": "计算"
+    },
+    "once": {
+        "trans": "一次"
+    },
+    "dataset": {
+        "trans": "数据集"
+    },
+    "rewards": {
+        "trans": "奖励"
+    },
+    "Algorithm": {
+        "trans": "算法"
+    },
+    "TRATEGY": {
+        "trans": "战略研究"
+    },
+    "Collect": {
+        "trans": "收集"
+    },
+    "samples": {
+        "trans": "样品"
+    },
+    "Learn": {
+        "trans": "学习"
+    },
+    "PDATES": {
+        "trans": "PDATES"
+    },
+    "Algo": {
+        "trans": "Algo"
+    },
+    "implements": {
+        "trans": "实现了"
+    },
+    "variation": {
+        "trans": "变异"
+    },
+    "usual": {
+        "trans": "通常"
+    },
+    "actions": {
+        "trans": "行动"
+    },
+    "type": {
+        "trans": "类型"
+    },
+    "optimize": {
+        "trans": "优化"
+    },
+    "calculated": {
+        "trans": "计算"
+    },
+    "direct": {
+        "trans": "直接"
+    },
+    "surrogate-based": {
+        "trans": "surrogate-based"
+    },
+    "depend": {
+        "trans": "依赖"
+    },
+    "dimen-": {
+        "trans": "dimen -"
+    },
+    "sionality": {
+        "trans": "sionality"
+    },
+    "since": {
+        "trans": "自"
+    },
+    "modeling": {
+        "trans": "建模"
+    },
+    "Model": {
+        "trans": "模型"
+    },
+    "exist": {
+        "trans": "存在"
+    },
+    "otherwise": {
+        "trans": "否则"
+    },
+    "technique": {
+        "trans": "技术"
+    },
+    "linear": {
+        "trans": "线性"
+    },
+    "regression": {
+        "trans": "回归"
+    },
+    "probabilistic": {
+        "trans": "概率"
+    },
+    "Probabilistic": {
+        "trans": "概率"
+    },
+    "rely": {
+        "trans": "依赖"
+    },
+    "non-parametric": {
+        "trans": "非参数"
+    },
+    "parametric": {
+        "trans": "参数"
+    },
+    "provide": {
+        "trans": "提供"
+    },
+    "uncertainty": {
+        "trans": "不确定性"
+    },
+    "incorporated": {
+        "trans": "合并"
+    },
+    "thus": {
+        "trans": "因此"
+    },
+    "giving": {
+        "trans": "给"
+    },
+    "capability": {
+        "trans": "能力"
+    },
+    "robust": {
+        "trans": "健壮的"
+    },
+    "over-exploit": {
+        "trans": "过度开发"
+    },
+    "biases": {
+        "trans": "偏见"
+    },
+    "Black-": {
+        "trans": "黑色- - - - - -"
+    },
+    "DROPS": {
+        "trans": "滴"
+    },
+    "PILCO": {
+        "trans": "皮尔克"
+    },
+    "greatly": {
+        "trans": "极大地"
+    },
+    "although": {
+        "trans": "虽然"
+    },
+    "Black-DROPS": {
+        "trans": "黑滴"
+    },
+    "tied": {
+        "trans": "系"
+    },
+    "Gradients": {
+        "trans": "梯度"
+    },
+    "Parameter-based": {
+        "trans": "基于参数"
+    },
+    "Exploration": {
+        "trans": "探索"
+    },
+    "suggested": {
+        "trans": "建议"
+    },
+    "estimate": {
+        "trans": "估计"
+    },
+    "least-squares": {
+        "trans": "最小二乘"
+    },
+    "conditional": {
+        "trans": "有条件的"
+    },
+    "bypass": {
+        "trans": "绕过"
+    },
+    "drawbacks": {
+        "trans": "缺点"
+    },
+    "computation": {
+        "trans": "计算"
+    },
+    "smoothness": {
+        "trans": "平滑度"
+    },
+    "choosing": {
+        "trans": "选择"
+    },
+    "non-smooth": {
+        "trans": "不光滑"
+    },
+    "local": {
+        "trans": "当地的"
+    },
+    "trained": {
+        "trans": "训练有素的"
+    },
+    "correct": {
+        "trans": "正确的"
+    },
+    "drive": {
+        "trans": "开车"
+    },
+    "Guided": {
+        "trans": "引导"
+    },
+    "unknown": {
+        "trans": "未知的"
+    },
+    "trade-off": {
+        "trans": "权衡"
+    },
+    "combinations": {
+        "trans": "组合"
+    },
+    "image": {
+        "trans": "图像"
+    },
+    "based": {
+        "trans": "基于"
+    },
+    "slide": {
+        "trans": "幻灯片"
+    },
+    "Oliver": {
+        "trans": "奥利弗"
+    },
+    "Brock": {
+        "trans": "布鲁克"
+    },
+    "marine": {
+        "trans": "海洋"
+    },
+    "iguanas": {
+        "trans": "iguanas"
+    },
+    "moments": {
+        "trans": "时刻"
+    },
+    "birth": {
+        "trans": "出生"
+    },
+    "eaten": {
+        "trans": "吃"
+    },
+    "These": {
+        "trans": "这些"
+    },
+    "species": {
+        "trans": "物种"
+    },
+    "mechanisms": {
+        "trans": "机制"
+    },
+    "mastering": {
+        "trans": "掌握"
+    },
+    "behaviors": {
+        "trans": "行为"
+    },
+    "cease": {
+        "trans": "停止"
+    },
+    "nature": {
+        "trans": "自然"
+    },
+    "presented": {
+        "trans": "提出了"
+    },
+    "catalytic": {
+        "trans": "催化"
+    },
+    "role": {
+        "trans": "角色"
+    },
+    "Thus": {
+        "trans": "因此"
+    },
+    "following": {
+        "trans": "后"
+    },
+    "questions": {
+        "trans": "问题"
+    },
+    "naturally": {
+        "trans": "自然"
+    },
+    "arise": {
+        "trans": "出现"
+    },
+    "innate": {
+        "trans": "天生的"
+    },
+    "part": {
+        "trans": "部分"
+    },
+    "designed": {
+        "trans": "设计"
+    },
+    "methodologies": {
+        "trans": "方法"
+    },
+    "Such": {
+        "trans": "这样的"
+    },
+    "accelerate": {
+        "trans": "加速"
+    },
+    "pol-": {
+        "trans": "波尔-"
+    },
+    "disadvantage": {
+        "trans": "缺点"
+    },
+    "requiring": {
+        "trans": "要求"
+    },
+    "expert": {
+        "trans": "专家"
+    },
+    "task-agnostic": {
+        "trans": "task-agnostic"
+    },
+    "properties": {
+        "trans": "属性"
+    },
+    "relax": {
+        "trans": "放松"
+    },
+    "assumptions": {
+        "trans": "假设"
+    },
+    "still": {
+        "trans": "仍然"
+    },
+    "providing": {
+        "trans": "提供"
+    },
+    "speedup": {
+        "trans": "加速"
+    },
+    "Some": {
+        "trans": "一些"
+    },
+    "steps": {
+        "trans": "步骤"
+    },
+    "made": {
+        "trans": "使"
+    },
+    "identifying": {
+        "trans": "识别"
+    },
+    "representation": {
+        "trans": "表示"
+    },
+    "believe": {
+        "trans": "相信"
+    },
+    "important": {
+        "trans": "重要的"
+    },
+    "investigation": {
+        "trans": "调查"
+    },
+    "Meta-": {
+        "trans": "Meta-"
+    },
+    "related": {
+        "trans": "相关的"
+    },
+    "principled": {
+        "trans": "有原则的"
+    },
+    "potentially": {
+        "trans": "潜在的"
+    },
+    "automatic": {
+        "trans": "自动"
+    },
+    "Physical": {
+        "trans": "物理"
+    },
+    "tool": {
+        "trans": "工具"
+    },
+    "essence": {
+        "trans": "本质"
+    },
+    "advantage": {
+        "trans": "优势"
+    },
+    "hardware": {
+        "trans": "硬件"
+    },
+    "CPUs": {
+        "trans": "cpu"
+    },
+    "analog": {
+        "trans": "模拟"
+    },
+    "billions": {
+        "trans": "数十亿"
+    },
+    "evolution": {
+        "trans": "进化"
+    },
+    "shaped": {
+        "trans": "形状的"
+    },
+    "lifeforms": {
+        "trans": "生命形式"
+    },
+    "While": {
+        "trans": "而"
+    },
+    "misleading": {
+        "trans": "误导"
+    },
+    "encountered": {
+        "trans": "遇到"
+    },
+    "impor-": {
+        "trans": "impor-"
+    },
+    "tant": {
+        "trans": "tant"
+    },
+    "avenue": {
+        "trans": "大道"
+    },
+    "design": {
+        "trans": "设计"
+    },
+    "incorporate": {
+        "trans": "合并"
+    },
+    "ignore": {
+        "trans": "忽略"
+    },
+    "irrelevant": {
+        "trans": "无关紧要的"
+    },
+    "select": {
+        "trans": "选择"
+    },
+    "among": {
+        "trans": "在"
+    },
+    "variety": {
+        "trans": "各种"
+    },
+    "Generalization": {
+        "trans": "泛化"
+    },
+    "robustness": {
+        "trans": "鲁棒性"
+    },
+    "majority": {
+        "trans": "多数"
+    },
+    "aforementioned": {
+        "trans": "之前提到的"
+    },
+    "con-": {
+        "trans": "con-"
+    },
+    "cerned": {
+        "trans": "海内外"
+    },
+    "generalization": {
+        "trans": "泛化"
+    },
+    "abilities": {
+        "trans": "能力"
+    },
+    "single": {
+        "trans": "单"
+    },
+    "portrayed": {
+        "trans": "描绘"
+    },
+    "documentary": {
+        "trans": "纪录片"
+    },
+    "Planet": {
+        "trans": "地球"
+    },
+    "Earth": {
+        "trans": "地球"
+    },
+    "context": {
+        "trans": "上下文"
+    },
+    "reject": {
+        "trans": "拒绝"
+    },
+    "perturbations": {
+        "trans": "扰动"
+    },
+    "forward": {
+        "trans": "向前"
+    },
+    "ground": {
+        "trans": "地面"
+    },
+    "various": {
+        "trans": "各种各样的"
+    },
+    "surfaces": {
+        "trans": "表面"
+    },
+    "incline": {
+        "trans": "incline"
+    },
+    "surface": {
+        "trans": "表面"
+    },
+    "stairs": {
+        "trans": "楼梯"
+    },
+    "directions": {
+        "trans": "方向"
+    },
+    "stacking": {
+        "trans": "叠加"
+    },
+    "tower": {
+        "trans": "塔"
+    },
+    "foam": {
+        "trans": "泡沫"
+    },
+    "blocks": {
+        "trans": "块"
+    },
+    "manipulator": {
+        "trans": "汇率操纵国"
+    },
+    "remained": {
+        "trans": "保持"
+    },
+    "size": {
+        "trans": "大小"
+    },
+    "cubes": {
+        "trans": "多维数据集"
+    },
+    "vary": {
+        "trans": "不同"
+    },
+    "external": {
+        "trans": "外部"
+    },
+    "wind": {
+        "trans": "风"
+    },
+    "gust": {
+        "trans": "阵风"
+    },
+    "reported": {
+        "trans": "报道"
+    },
+    "situation": {
+        "trans": "情况"
+    },
+    "appear": {
+        "trans": "出现"
+    },
+    "surprising": {
+        "trans": "令人惊讶的"
+    },
+    "generaliza-": {
+        "trans": "generaliza -"
+    },
+    "theory": {
+        "trans": "理论"
+    },
+    "source": {
+        "trans": "源"
+    },
+    "however": {
+        "trans": "然而"
+    },
+    "straightforward": {
+        "trans": "直截了当的"
+    },
+    "assessing": {
+        "trans": "评估"
+    },
+    "gen-": {
+        "trans": "创-"
+    },
+    "eralization": {
+        "trans": "eralization"
+    },
+    "additional": {
+        "trans": "额外的"
+    },
+    "typical": {
+        "trans": "典型的"
+    },
+    "test": {
+        "trans": "测试"
+    },
+    "Nevertheless": {
+        "trans": "不过"
+    },
+    "multiplies": {
+        "trans": "繁殖"
+    },
+    "tested": {
+        "trans": "测试"
+    },
+    "intractable": {
+        "trans": "棘手的"
+    },
+    "dimension": {
+        "trans": "维"
+    },
+    "increases": {
+        "trans": "增加"
+    },
+    "ways": {
+        "trans": "方法"
+    },
+    "perturbing": {
+        "trans": "微扰"
+    },
+    "high-dimensional": {
+        "trans": "高维"
+    },
+    "remedy": {
+        "trans": "补救措施"
+    },
+    "intrinsically": {
+        "trans": "本质上"
+    },
+    "change": {
+        "trans": "改变"
+    },
+    "keeps": {
+        "trans": "保持"
+    },
+    "corresponds": {
+        "trans": "对应"
+    },
+    "ideas": {
+        "trans": "的想法"
+    },
+    "attractors": {
+        "trans": "吸引子"
+    },
+    "waypoints": {
+        "trans": "路点"
+    },
+    "repulsors": {
+        "trans": "repulsors"
+    },
+    "advanced": {
+        "trans": "先进的"
+    },
+    "closed-loop": {
+        "trans": "闭环"
+    },
+    "whole-body": {
+        "trans": "全身"
+    },
+    "layers": {
+        "trans": "层"
+    },
+    "program": {
+        "trans": "程序"
+    },
+    "distinct": {
+        "trans": "截然不同的"
+    },
+    "soft": {
+        "trans": "软"
+    },
+    "simpler": {
+        "trans": "更简单的"
+    },
+    "compose": {
+        "trans": "组成"
+    },
+    "complicated": {
+        "trans": "复杂的"
+    },
+    "conceivable": {
+        "trans": "可以想象"
+    },
+    "never": {
+        "trans": "从来没有"
+    },
+    "distinguish": {
+        "trans": "区分"
+    },
+    "Ultimately": {
+        "trans": "最终"
+    },
+    "execute": {
+        "trans": "执行"
+    },
+    "generalize": {
+        "trans": "概括"
+    },
+    "previ-": {
+        "trans": "previ-"
+    },
+    "experience": {
+        "trans": "经验"
+    },
+    "changes": {
+        "trans": "变化"
+    },
+    "Having": {
+        "trans": "有"
+    },
+    "generalizes": {
+        "trans": "概括"
+    },
+    "offers": {
+        "trans": "提供了"
+    },
+    "execution": {
+        "trans": "执行"
+    },
+    "opposed": {
+        "trans": "反对"
+    },
+    "multitask": {
+        "trans": "多任务"
+    },
+    "decomposed": {
+        "trans": "分解"
+    },
+    "learningmore": {
+        "trans": "learningmore"
+    },
+    "priorpure": {
+        "trans": "priorpure"
+    },
+    "planningpure": {
+        "trans": "planningpure"
+    },
+    "learninglearningprior": {
+        "trans": "learninglearningprior"
+    },
+    "goals": {
+        "trans": "目标"
+    },
+    "dart": {
+        "trans": "飞镖"
+    },
+    "targets": {
+        "trans": "目标"
+    },
+    "adapting": {
+        "trans": "适应"
+    },
+    "cover": {
+        "trans": "封面"
+    },
+    "transitioning": {
+        "trans": "过渡"
+    },
+    "slippery": {
+        "trans": "湿滑的"
+    },
+    "tackled": {
+        "trans": "解决"
+    },
+    "goal-conditioned": {
+        "trans": "goal-conditioned"
+    },
+    "model-free": {
+        "trans": "模范自由"
+    },
+    "settings": {
+        "trans": "设置"
+    },
+    "behavioral": {
+        "trans": "行为"
+    },
+    "repertoires": {
+        "trans": "体验"
+    },
+    "Fast": {
+        "trans": "快"
+    },
+    "changing": {
+        "trans": "改变"
+    },
+    "addressed": {
+        "trans": "解决"
+    },
+    "meta-learning": {
+        "trans": "元学习"
+    },
+    "identi-": {
+        "trans": "一致格-"
+    },
+    "generally": {
+        "trans": "一般"
+    },
+    "Interplay": {
+        "trans": "相互作用"
+    },
+    "rises": {
+        "trans": "上升"
+    },
+    "fundamental": {
+        "trans": "基本"
+    },
+    "linear-": {
+        "trans": "线性-"
+    },
+    "quadratic": {
+        "trans": "二次"
+    },
+    "regulator": {
+        "trans": "监管机构"
+    },
+    "nonlinear": {
+        "trans": "非线性"
+    },
+    "linearizing": {
+        "trans": "线性化"
+    },
+    "action": {
+        "trans": "行动"
+    },
+    "differential": {
+        "trans": "微分"
+    },
+    "programming": {
+        "trans": "编程"
+    },
+    "variant": {
+        "trans": "变体"
+    },
+    "linear-quadratic": {
+        "trans": "线性二次"
+    },
+    "iLQG": {
+        "trans": "iLQG"
+    },
+    "Generally": {
+        "trans": "一般"
+    },
+    "horizon": {
+        "trans": "地平线"
+    },
+    "lookahead": {
+        "trans": "超前"
+    },
+    "computationally": {
+        "trans": "计算"
+    },
+    "costly": {
+        "trans": "昂贵的"
+    },
+    "reason": {
+        "trans": "原因"
+    },
+    "mostly": {
+        "trans": "主要是"
+    },
+    "employed": {
+        "trans": "使用"
+    },
+    "calcu-": {
+        "trans": "没,"
+    },
+    "permit": {
+        "trans": "许可证"
+    },
+    "reduc-": {
+        "trans": "增加- - - - - -"
+    },
+    "gaining": {
+        "trans": "获得"
+    },
+    "computational": {
+        "trans": "计算"
+    },
+    "ciency": {
+        "trans": "不熟悉"
+    },
+    "horizons": {
+        "trans": "视野"
+    },
+    "overall": {
+        "trans": "整体"
+    },
+    "high-level": {
+        "trans": "高层"
+    },
+    "short-term": {
+        "trans": "短期"
+    },
+    "tracking": {
+        "trans": "跟踪"
+    },
+    "produced": {
+        "trans": "生产"
+    },
+    "feedback": {
+        "trans": "反馈"
+    },
+    "replan": {
+        "trans": "重新计划"
+    },
+    "step": {
+        "trans": "一步"
+    },
+    "real-time": {
+        "trans": "实时"
+    },
+    "relying": {
+        "trans": "依赖"
+    },
+    "Models": {
+        "trans": "模型"
+    },
+    "inaccu-": {
+        "trans": "inaccu -"
+    },
+    "rate": {
+        "trans": "率"
+    },
+    "especially": {
+        "trans": "特别是"
+    },
+    "therefore": {
+        "trans": "因此"
+    },
+    "mechanism": {
+        "trans": "机制"
+    },
+    "corrects": {
+        "trans": "纠正"
+    },
+    "mismatch": {
+        "trans": "不匹配"
+    },
+    "solution": {
+        "trans": "解决方案"
+    },
+    "additionally": {
+        "trans": "另外"
+    },
+    "mitigated": {
+        "trans": "减轻"
+    },
+    "combining": {
+        "trans": "结合"
+    },
+    "deployed": {
+        "trans": "部署"
+    },
+    "even": {
+        "trans": "甚至"
+    },
+    "Should": {
+        "trans": "应该"
+    },
+    "high-": {
+        "trans": "高- - - - - -"
+    },
+    "level": {
+        "trans": "水平"
+    },
+    "helping": {
+        "trans": "帮助"
+    },
+    "chores": {
+        "trans": "家务"
+    },
+    "Firstly": {
+        "trans": "首先"
+    },
+    "Secondly": {
+        "trans": "其次"
+    },
+    "becomes": {
+        "trans": "就变成了"
+    },
+    "Even": {
+        "trans": "甚至"
+    },
+    "memory": {
+        "trans": "内存"
+    },
+    "requirements": {
+        "trans": "需求"
+    },
+    "addressing": {
+        "trans": "寻址"
+    },
+    "decomposing": {
+        "trans": "分解"
+    },
+    "hierarchy": {
+        "trans": "层次结构"
+    },
+    "subtasks": {
+        "trans": "子任务"
+    },
+    "Sampling-based": {
+        "trans": "Sampling-based"
+    },
+    "planners": {
+        "trans": "规划者"
+    },
+    "operate": {
+        "trans": "操作"
+    },
+    "levels": {
+        "trans": "水平"
+    },
+    "Furthermore": {
+        "trans": "此外"
+    },
+    "components": {
+        "trans": "组件"
+    },
+    "higher-level": {
+        "trans": "更高级的"
+    },
+    "Computation": {
+        "trans": "计算"
+    },
+    "Micro-data": {
+        "trans": "数据"
+    },
+    "desirable": {
+        "trans": "可取的"
+    },
+    "property": {
+        "trans": "财产"
+    },
+    "pur-": {
+        "trans": "pur-"
+    },
+    "posefully": {
+        "trans": "posefully"
+    },
+    "neglect": {
+        "trans": "忽视"
+    },
+    "worth": {
+        "trans": "价值"
+    },
+    "investigating": {
+        "trans": "调查"
+    },
+    "sped": {
+        "trans": "加速"
+    },
+    "real-": {
+        "trans": "真正的,"
+    },
+    "todays": {
+        "trans": "今天"
+    },
+    "illustration": {
+        "trans": "插图"
+    },
+    "suc-": {
+        "trans": "往下,"
+    },
+    "cessful": {
+        "trans": "cessful"
+    },
+    "com-": {
+        "trans": "com-"
+    },
+    "putationally": {
+        "trans": "putationally"
+    },
+    "weeks": {
+        "trans": "周"
+    },
+    "planar": {
+        "trans": "planar"
+    },
+    "multi-core": {
+        "trans": "多核"
+    },
+    "architectures": {
+        "trans": "体系结构"
+    },
+    "GP-MI": {
+        "trans": "GP-MI"
+    },
+    "considerable": {
+        "trans": "相当大的"
+    },
+    "modern": {
+        "trans": "现代"
+    },
+    "pendubot": {
+        "trans": "pendubot"
+    },
+    "Both": {
+        "trans": "这两个"
+    },
+    "points": {
+        "trans": "点"
+    },
+    "queried": {
+        "trans": "查询"
+    },
+    "clearly": {
+        "trans": "很明显"
+    },
+    "performs": {
+        "trans": "执行"
+    },
+    "episode": {
+        "trans": "集"
+    },
+    "practically": {
+        "trans": "几乎"
+    },
+    "pre-computed": {
+        "trans": "预计算"
+    },
+    "recipe": {
+        "trans": "配方"
+    },
+    "shared": {
+        "trans": "共享"
+    },
+    "expressive": {
+        "trans": "富有表现力的"
+    },
+    "optimized": {
+        "trans": "优化"
+    },
+    "gradient": {
+        "trans": "梯度"
+    },
+    "update": {
+        "trans": "更新"
+    },
+    "precomputation": {
+        "trans": "预先计算"
+    },
+    "Algorithms": {
+        "trans": "算法"
+    },
+    "directed": {
+        "trans": "导演"
+    },
+    "probably": {
+        "trans": "可能"
+    },
+    "orders": {
+        "trans": "订单"
+    },
+    "magnitude": {
+        "trans": "级"
+    },
+    "quality": {
+        "trans": "质量"
+    },
+    "CONCLU": {
+        "trans": "CONCLU"
+    },
+    "Thanks": {
+        "trans": "谢谢"
+    },
+    "representations": {
+        "trans": "表示"
+    },
+    "considerably": {
+        "trans": "大大"
+    },
+    "expand": {
+        "trans": "扩大"
+    },
+    "usefulness": {
+        "trans": "有用性"
+    },
+    "envision": {
+        "trans": "设想"
+    },
+    "front": {
+        "trans": "前面"
+    },
+    "eyes": {
+        "trans": "眼睛"
+    },
+    "nonetheless": {
+        "trans": "尽管如此"
+    },
+    "critical": {
+        "trans": "至关重要的"
+    },
+    "notably": {
+        "trans": "值得注意的是"
+    },
+    "scale-up": {
+        "trans": "扩大"
+    },
+    "simultaneously": {
+        "trans": "同时"
+    },
+    "guidelines": {
+        "trans": "的指导方针"
+    },
+    "rules": {
+        "trans": "规则"
+    },
+    "govern": {
+        "trans": "管理"
+    },
+    "describes": {
+        "trans": "描述了"
+    },
+    "controlled": {
+        "trans": "控制"
+    },
+    "eterized": {
+        "trans": "eterized"
+    },
+    "followed": {
+        "trans": "之后"
+    },
+    "Throughout": {
+        "trans": "在"
+    },
+    "adopt": {
+        "trans": "采用"
+    },
+    "episode-based": {
+        "trans": "episode-based"
+    },
+    "time-horizon": {
+        "trans": "时间范围"
+    },
+    "formulations": {
+        "trans": "配方"
+    },
+    "clarity": {
+        "trans": "清晰"
+    },
+    "pedagogical": {
+        "trans": "教学"
+    },
+    "reasons": {
+        "trans": "原因"
+    },
+    "outputs": {
+        "trans": "输出"
+    },
+    "distribution": {
+        "trans": "分布"
+    },
+    "sampled": {
+        "trans": "采样"
+    },
+    "stochastic": {
+        "trans": "随机"
+    },
+    "time-dependent": {
+        "trans": "按时间的"
+    },
+    "drop": {
+        "trans": "下降"
+    },
+    "include": {
+        "trans": "包括"
+    },
+    "completeness": {
+        "trans": "完整性"
+    },
+    "Several": {
+        "trans": "几个"
+    },
+    "states": {
+        "trans": "州"
+    },
+    "jointly": {
+        "trans": "共同"
+    },
+    "rollouts": {
+        "trans": "电"
+    },
+    "paths": {
+        "trans": "路径"
+    },
+    "scalar": {
+        "trans": "标量"
+    },
+    "evaluates": {
+        "trans": "评估"
+    },
+    "long-": {
+        "trans": "长期"
+    },
+    "taking": {
+        "trans": "采取"
+    },
+    "reaching": {
+        "trans": "达到"
+    },
+    "maximize": {
+        "trans": "最大化"
+    },
+    "start": {
+        "trans": "开始"
+    },
+    "initialization": {
+        "trans": "初始化"
+    },
+    "discrete": {
+        "trans": "离散"
+    },
+    "ICML": {
+        "trans": "ICML"
+    },
+    "Mouret": {
+        "trans": "穆雷打造"
+    },
+    "Peters": {
+        "trans": "彼得斯"
+    },
+    "functions": {
+        "trans": "功能"
+    },
+    "arXiv": {
+        "trans": "arXiv"
+    },
+    "preprint": {
+        "trans": "预印"
+    },
+    "Deisenroth": {
+        "trans": "Deisenroth"
+    },
+    "Abbeel": {
+        "trans": "Abbeel"
+    },
+    "Control": {
+        "trans": "控制"
+    },
+    "Optimization": {
+        "trans": "优化"
+    },
+    "NIPS": {
+        "trans": "少量的酒"
+    },
+    "Comput": {
+        "trans": "第一版"
+    },
+    "dimensional": {
+        "trans": "维"
+    },
+    "simple": {
+        "trans": "简单的"
+    },
+    "gradients": {
+        "trans": "梯度"
+    },
+    "Evol": {
+        "trans": "另一个星球"
+    },
+    "networks": {
+        "trans": "网络"
+    },
+    "exploit": {
+        "trans": "利用"
+    },
+    "motor": {
+        "trans": "电动机"
+    },
+    "locomotion": {
+        "trans": "locomotion"
+    },
+    "scale": {
+        "trans": "规模"
+    },
+    "Trans": {
+        "trans": "反式"
+    },
+    "Neumann": {
+        "trans": "Neumann"
+    },
+    "Chatzilygeroudis": {
+        "trans": "Chatzilygeroudis"
+    },
+    "Schaal": {
+        "trans": "Schaal"
+    },
+    "Neural": {
+        "trans": "神经"
+    },
+    "loop": {
+        "trans": "循环"
+    },
+    "motion": {
+        "trans": "运动"
+    },
+    "DMPs": {
+        "trans": "纯数字"
+    },
+    "inference": {
+        "trans": "推理"
+    },
+    "Deep": {
+        "trans": "深"
+    },
+    "Rasmussen": {
+        "trans": "拉斯穆森"
+    },
+    "Journal": {
+        "trans": "Journal"
+    },
+    "University": {
+        "trans": "大学"
+    },
+    "applications": {
+        "trans": "应用程序"
+    },
+    "network": {
+        "trans": "网络"
+    },
+    "neural": {
+        "trans": "神经"
+    },
+    "higher": {
+        "trans": "更高的"
+    },
+    "imitation": {
+        "trans": "模仿"
+    },
+    "manipulation": {
+        "trans": "操纵"
+    },
+    "Monte-Carlo": {
+        "trans": "蒙特卡罗"
+    },
+    "sampling": {
+        "trans": "抽样"
+    },
+    "noisy": {
+        "trans": "嘈杂的"
+    },
+    "received": {
+        "trans": "收到了"
+    },
+    "Calinon": {
+        "trans": "Calinon"
+    },
+    "Stulp": {
+        "trans": "Stulp"
+    },
+    "skills": {
+        "trans": "技能"
+    },
+    "provides": {
+        "trans": "提供了"
+    },
+    "least": {
+        "trans": "至少"
+    },
+    "approximation": {
+        "trans": "近似"
+    },
+    "approximator": {
+        "trans": "接近者"
+    },
+    "supervised": {
+        "trans": "监督"
+    },
+    "learn-": {
+        "trans": "学习- - - - - -"
+    },
+    "moment": {
+        "trans": "时刻"
+    },
+    "basically": {
+        "trans": "基本上"
+    },
+    "combines": {
+        "trans": "结合"
+    },
+    "curse": {
+        "trans": "诅咒"
+    },
+    "choose": {
+        "trans": "选择"
+    },
+    "BNNs": {
+        "trans": "bnn"
+    },
+    "PEGASUS": {
+        "trans": "珀加索斯"
+    },
+    "predictive": {
+        "trans": "预测"
+    },
+    "self-modeling": {
+        "trans": "self-modeling"
+    },
+    "transferability": {
+        "trans": "可转移性"
+    },
+    "visual": {
+        "trans": "视觉"
+    },
+    "Real": {
+        "trans": "真正的"
+    },
+    "European": {
+        "trans": "欧洲"
+    },
+    "Nature": {
+        "trans": "自然"
+    },
+    "Silver": {
+        "trans": "银"
+    },
+    "IJRR": {
+        "trans": "IJRR"
+    },
+    "Wang": {
+        "trans": "王"
+    },
+    "Humanoids": {
+        "trans": "仿人机器人"
+    },
+    "Networks": {
+        "trans": "网络"
+    },
+    "Transactions": {
+        "trans": "Transactions"
+    },
+    "JMLR": {
+        "trans": "JMLR"
+    },
+    "Springer": {
+        "trans": "施普林格"
+    },
+    "bayesian": {
+        "trans": "贝叶斯"
+    },
+    "Vassiliades": {
+        "trans": "Vassiliades"
+    },
+    "Hansen": {
+        "trans": "汉森"
+    },
+    "Science": {
+        "trans": "科学"
+    },
+    "searchable": {
+        "trans": "可搜索的"
+    },
+    "convergence": {
+        "trans": "convergence"
+    },
+    "capabilities": {
+        "trans": "功能"
+    },
+    "basis": {
+        "trans": "基础"
+    },
+    "demonstration": {
+        "trans": "示范"
+    },
+    "types": {
+        "trans": "类型"
+    },
+    "stability": {
+        "trans": "稳定"
+    },
+    "guarantees": {
+        "trans": "担保"
+    },
+    "Dynamical": {
+        "trans": "动力"
+    },
+    "commands": {
+        "trans": "命令"
+    },
+    "Similar": {
+        "trans": "类似的"
+    },
+    "sub-policies": {
+        "trans": "sub-policies"
+    },
+    "latent": {
+        "trans": "潜在的"
+    },
+    "global": {
+        "trans": "全球"
+    },
+    "IONFUNC": {
+        "trans": "IONFUNC"
+    },
+    "location": {
+        "trans": "位置"
+    },
+    "performing": {
+        "trans": "执行"
+    },
+    "sampling-based": {
+        "trans": "sampling-based"
+    },
+    "effectively": {
+        "trans": "有效地"
+    },
+    "randomization": {
+        "trans": "随机化"
+    },
+    "James": {
+        "trans": "詹姆斯"
+    },
+    "project": {
+        "trans": "项目"
+    },
+    "Sutton": {
+        "trans": "萨顿"
+    },
+    "ment": {
+        "trans": "ment"
+    },
+    "Robots": {
+        "trans": "机器人"
+    },
+    "Model-Based": {
+        "trans": "基于模型的"
+    },
+    "Ijspeert": {
+        "trans": "Ijspeert"
+    },
+    "ICLR": {
+        "trans": "ICLR"
+    },
+    "Morimoto": {
+        "trans": "森本晃司"
+    },
+    "Sigaud": {
+        "trans": "西高德"
+    },
+    "Intelligence": {
+        "trans": "情报"
+    },
+    "Calandra": {
+        "trans": "Calandra"
+    },
+    "CoRL": {
+        "trans": "考"
+    },
+    "Finn": {
+        "trans": "Finn"
+    },
+    "Koos": {
+        "trans": "三星"
+    },
+    "EPFL": {
+        "trans": "EPFL"
+    },
+    "degree": {
+        "trans": "学位"
+    },
+    "describe": {
+        "trans": "描述"
+    },
+    "guided": {
+        "trans": "引导"
+    },
+    "always": {
+        "trans": "总是"
+    },
+    "values": {
+        "trans": "值"
+    },
+    "lead": {
+        "trans": "铅"
+    },
+    "solved": {
+        "trans": "解决了"
+    },
+    "universal": {
+        "trans": "通用"
+    },
+    "approximators": {
+        "trans": "接近者"
+    },
+    "variations": {
+        "trans": "变化"
+    },
+    "movements": {
+        "trans": "运动"
+    },
+    "repetitive": {
+        "trans": "重复的"
+    },
+    "Perhaps": {
+        "trans": "也许"
+    },
+    "Movement": {
+        "trans": "运动"
+    },
+    "rhythmic": {
+        "trans": "有节奏的"
+    },
+    "converges": {
+        "trans": "是收敛的"
+    },
+    "generates": {
+        "trans": "生成"
+    },
+    "end-effector": {
+        "trans": "末端执行器"
+    },
+    "pose": {
+        "trans": "构成"
+    },
+    "autonomous": {
+        "trans": "自治"
+    },
+    "independent": {
+        "trans": "独立的"
+    },
+    "stable": {
+        "trans": "稳定的"
+    },
+    "variables": {
+        "trans": "变量"
+    },
+    "low-level": {
+        "trans": "低级"
+    },
+    "positions": {
+        "trans": "职位"
+    },
+    "desired": {
+        "trans": "想要的"
+    },
+    "constant": {
+        "trans": "常数"
+    },
+    "contextual": {
+        "trans": "上下文"
+    },
+    "just": {
+        "trans": "只是"
+    },
+    "reference": {
+        "trans": "参考"
+    },
+    "affect": {
+        "trans": "影响"
+    },
+    "hierarchical": {
+        "trans": "分层"
+    },
+    "reduces": {
+        "trans": "减少了"
+    },
+    "either": {
+        "trans": "要么"
+    },
+    "kinesthetic": {
+        "trans": "动觉"
+    },
+    "teaching": {
+        "trans": "教学"
+    },
+    "account": {
+        "trans": "账户"
+    },
+    "user": {
+        "trans": "用户"
+    },
+    "Dynamic": {
+        "trans": "动态"
+    },
+    "ters": {
+        "trans": "源物体参数"
+    },
+    "consists": {
+        "trans": "由"
+    },
+    "Processes": {
+        "trans": "流程"
+    },
+    "Upper": {
+        "trans": "上"
+    },
+    "Bound": {
+        "trans": "绑定"
+    },
+    "Probability": {
+        "trans": "概率"
+    },
+    "probability": {
+        "trans": "概率"
+    },
+    "observation": {
+        "trans": "观察"
+    },
+    "practice": {
+        "trans": "实践"
+    },
+    "analytically": {
+        "trans": "分析"
+    },
+    "normal": {
+        "trans": "正常的"
+    },
+    "situations": {
+        "trans": "的情况下"
+    },
+    "uncertain": {
+        "trans": "不确定的"
+    },
+    "controlling": {
+        "trans": "控制"
+    },
+    "dimensions": {
+        "trans": "维"
+    },
+    "features": {
+        "trans": "特性"
+    },
+    "benchmark": {
+        "trans": "基准"
+    },
+    "inputs": {
+        "trans": "输入"
+    },
+    "scenarios": {
+        "trans": "场景"
+    },
+    "equivalent": {
+        "trans": "等效"
+    },
+    "PIPPS": {
+        "trans": "PIPPS"
+    },
+    "matching": {
+        "trans": "匹配"
+    },
+    "analytic": {
+        "trans": "分析"
+    },
+    "pendulum": {
+        "trans": "摆"
+    },
+    "VGMI": {
+        "trans": "VGMI"
+    },
+    "legged": {
+        "trans": "腿"
+    },
+    "reality": {
+        "trans": "现实"
+    },
+    "SimToReal": {
+        "trans": "SimToReal"
+    },
+    "Hindsight": {
+        "trans": "后见之明"
+    },
+    "Meta-Learning": {
+        "trans": "元学习"
+    },
+    "mission": {
+        "trans": "任务"
+    },
+    "tactile": {
+        "trans": "tactile"
+    },
+    "state-space": {
+        "trans": "状态方程"
+    },
+    "Priors": {
+        "trans": "先知先觉"
+    },
+    "animals": {
+        "trans": "动物"
+    },
+    "turtles": {
+        "trans": "海龟"
+    },
+    "Pastor": {
+        "trans": "牧师"
+    },
+    "Kober": {
+        "trans": "科比"
+    },
+    "Cully": {
+        "trans": "呆子"
+    },
+    "Nakanishi": {
+        "trans": "录像"
+    },
+    "Freitas": {
+        "trans": "Freitas"
+    },
+    "Proceedings": {
+        "trans": "诉讼"
+    },
+    "Singh": {
+        "trans": "辛格"
+    },
+    "Whiteson": {
+        "trans": "Whiteson"
+    },
+    "Billard": {
+        "trans": "Billard"
+    },
+    "Advanced": {
+        "trans": "先进的"
+    },
+    "From": {
+        "trans": "从"
+    },
+    "IJCAI": {
+        "trans": "IJCAI"
+    },
+    "Auton": {
+        "trans": "Auton"
+    },
+    "Syst": {
+        "trans": "系统"
+    },
+    "Evolving": {
+        "trans": "不断发展的"
+    },
+    "Proc": {
+        "trans": "Proc"
+    },
+    "Krause": {
+        "trans": "克劳斯"
+    },
+    "Hutter": {
+        "trans": "Hutter"
+    },
+    "Robust": {
+        "trans": "健壮的"
+    },
+    "Optimal": {
+        "trans": "最优"
+    },
+    "Optimizing": {
+        "trans": "优化"
+    },
+    "Padois": {
+        "trans": "Padois"
+    },
+    "forcement": {
+        "trans": "小江"
+    },
+    "Robotic": {
+        "trans": "机器人"
+    },
+    "Moore": {
+        "trans": "摩尔"
+    },
+    "Kumar": {
+        "trans": "库马尔"
+    },
+    "Todorov": {
+        "trans": "托多罗夫"
+    },
+    "Sim-to-Real": {
+        "trans": "Sim-to-Real"
+    },
+    "World": {
+        "trans": "世界"
+    },
+    "Workshop": {
+        "trans": "车间"
+    },
+    "Website": {
+        "trans": "网站"
+    },
+    "Niter": {
+        "trans": "硝酸钠"
+    },
+    "alternates": {
+        "trans": "交替"
+    },
+    "selecting": {
+        "trans": "选择"
+    },
+    "Apply": {
+        "trans": "应用"
+    },
+    "ICYS": {
+        "trans": "冰冷的"
+    },
+    "outline": {
+        "trans": "大纲"
+    },
+    "category": {
+        "trans": "类别"
+    },
+    "model-": {
+        "trans": "模型-"
+    },
+    "free": {
+        "trans": "免费的"
+    },
+    "theoretically": {
+        "trans": "从理论上讲"
+    },
+    "whatever": {
+        "trans": "无论"
+    },
+    "denote": {
+        "trans": "表示"
+    },
+    "acceptable": {
+        "trans": "可接受的"
+    },
+    "rarely": {
+        "trans": "很少"
+    },
+    "errors": {
+        "trans": "错误"
+    },
+    "common": {
+        "trans": "常见的"
+    },
+    "generality": {
+        "trans": "普遍性"
+    },
+    "resulting": {
+        "trans": "结果"
+    },
+    "easily": {
+        "trans": "很容易"
+    },
+    "mensionality": {
+        "trans": "mensionality"
+    },
+    "limits": {
+        "trans": "限制"
+    },
+    "continuous": {
+        "trans": "连续"
+    },
+    "Policies": {
+        "trans": "政策"
+    },
+    "determine": {
+        "trans": "确定"
     }
 }
